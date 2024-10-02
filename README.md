@@ -1,5 +1,6 @@
 # calculadora-edo
-Calculadora de Equações Diferenciais (EDO)
+
+## Calculadora de Equações Diferenciais (EDO)
 Este é um script em Python desenvolvido para resolver equações diferenciais ordinárias (EDOs) de primeira e segunda ordem. O projeto foi realizado em grupo, como parte de uma atividade proposta em sala de aula, utilizando alguns exemplos de equações.
 
 Sobre o Projeto
